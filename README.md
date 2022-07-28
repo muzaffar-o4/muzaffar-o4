@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
       <a href="https://instagram.com/muzaffar-.o4" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar-.o4" height="30" width="40" /></a>
-      <a href="https://t.me/muzaffar_o7" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="muzaffar_o7" height="30" width="40" /></a>
+      <a href="https://t.me/muzaffar_o7" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="muzaffar_o7" height="30" width="40" /></a>
       <a href="tel:+998991338057" target="blank"><img align="center" src="https://freesvg.org/img/phone-call-icon.png" alt="+998991338057" height="30" width="40" /></a>
       <a href="sms:+998991338057" target="blank" ><img align="center" src="https://icon-library.com/images/sms-icon-png/sms-icon-png-21.jpg" alt="+998991338057" height="30" width="40" /></a>
     </p>
