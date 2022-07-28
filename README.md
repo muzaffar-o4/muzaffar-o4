@@ -11,13 +11,24 @@
 - 📫 How to reach me **muzaffarmasordinov@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    My name is <strong>Muzaffar.</strong> Full name is <strong>Masordinov Muzaffar.</strong> I'm from <strong>DJizzakh. 18.y.o</strong>
+</details>
+<details>
+    <summary><b>🎭 My hobbies</b></summary><br/>
+      <strong>Programming, Gym, Gaming.</strong>
+</details>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-      <a href="https://instagram.com/muzaffar-.o4" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar-.o4" height="30" width="40" /></a>
-      <a href="https://t.me/muzaffar_o7" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="muzaffar_o7" height="30" width="40" /></a>
-      <a href="tel:+998991338057" target="blank"><img align="center" src="https://freesvg.org/img/phone-call-icon.png" alt="+998991338057" height="30" width="40" /></a>
-      <a href="sms:+998991338057" target="blank" ><img align="center" src="https://icon-library.com/images/sms-icon-png/sms-icon-png-21.jpg" alt="+998991338057" height="30" width="40" /></a>
+<p align="center">
+ <a href="https://instagram.com/muzaffar-.o4" target="blank" >
+       
+ ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
+      
+ <a href="https://t.me/muzaffar_o7" target="_blank">
+       
+ ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +38,8 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-o4&show_icons=true&locale=en&layout=compact" alt="muzaffar-o4" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffar-o4&show_icons=true&locale=en" alt="muzaffar-o4" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzaffar-o4&show_icons=true&theme=tokyonight)
 
     
 <small>##My contribution graph</small>
