@@ -21,11 +21,11 @@
 </details>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
  <a href="https://instagram.com/muzaffar-.o4" target="blank" >
        
  ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
-      
+
  <a href="https://t.me/muzaffar_o7" target="_blank">
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
