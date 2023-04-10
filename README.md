@@ -26,7 +26,7 @@
        
  ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
 
- <a href="https://t.me/muzaffar_o7" target="_blank">
+ <a href="https://t.me/muzaffar_o_7" target="_blank">
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
