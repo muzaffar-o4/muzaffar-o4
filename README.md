@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>Muzaffar.</strong> Full name is <strong>Masordinov Muzaffar.</strong> I'm from <strong>DJizzakh. 18.y.o</strong>
+    My name is <strong>Muzaffar.</strong> Full name is <strong>Masordinov Muzaffar.</strong> I'm from <strong>DJizzakh. 20.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://instagram.com/muzaffar-.o4" target="blank" >
+ <a href="https://instagram.com/muzaffar_o_3" target="blank" >
        
  ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
 
- <a href="https://t.me/muzaffar_o_7" target="_blank">
+ <a href="https://t.me/muzaffar_o_3" target="_blank">
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
